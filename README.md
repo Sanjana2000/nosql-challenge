@@ -1,5 +1,6 @@
-
 # nosql-challenge
+
+# Resourcen file : establishments.json file
 
 PART 1
 
